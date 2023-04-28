@@ -1,5 +1,7 @@
-gunicorn==19.9.0
-pandas==0.25.1
-Flask==1.0.3
-Flask-RESTful==0.3.7
+Flask
+Flask-RESTful
 scikit-learn==0.20.3 #https://stackoverflow.com/questions/74947762/modulenotfounderror-no-module-named-sklearn-linear-model-base-error-python
+xlrd
+pandas
+openpyxl
+bokeh
